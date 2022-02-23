@@ -16,8 +16,7 @@ Whenever you download and get the data, please create `README.md` file to store 
 
 1. _When_ was the data obtained?
 2. _From whom_ or _where_ did you get the data?
-3. What does each column mean? What is the _data format_ of each column? Loading a column with a wrong assumption about its data format can cost your project!
-4. What are the other relevant information, restrictions, and limitations about the dataset? How was the data collected? What kinds of biases does it contain? What should not be done with the dataset (e.g., identification of individuals)?
+3. What does each column mean? What is the _data format_ of each column?
 
 
 

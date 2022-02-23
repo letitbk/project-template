@@ -1,0 +1,1 @@
+Here, your codes should clearly indicate what `input` data you used, and what will be the `output` in their headings.  Create a sub-folder if you think that each code would be too longer. Use number to indicate the order of your codes (`1_read_data.R`, `2_clean_variables.R`). 
