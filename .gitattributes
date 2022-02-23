@@ -1,1 +1,1 @@
-*.python linguist-detectable=false
+*.py *.smk linguist-detectable=false
