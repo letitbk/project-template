@@ -6,10 +6,10 @@ This is the folder for storing raw & derived datasets, but do not use github for
 
 ```
 ├── data
-│   ├── external       <- Data from third party sources.
-│   ├── interim        <- Intermediate data that has been transformed.
-│   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
+│   ├── additional     <- Data from third party sources.
+│   ├── cleaned        <- The final, canonical data sets for modeling.
+│   ├── processed      <- Intermediate data that has been transformed.
+│   └── rawdata        <- The original, immutable data dump.
 ```
 
 Whenever you download and get the data, please create `README.md` file to store detailed documentation (data dictionary) on the datasets. Document the following information (at least).
