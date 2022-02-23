@@ -3,17 +3,18 @@
 A simple template for a research project. 
 
 ```
-├── 0-posted
-├── admin
-├── code
-├── data
-├── doc
-├── output
-├── stash
+\0-posted
+\admin
+\code
+\data
+\doc
+\output
+\stash
 ```
 
 What each folder should include:
 
+* `0-posted` : this is where you post your final analysis code + document for each version of your paper draft.
 * `admin` : any administrative stuffs such as a copy of email exchange, data use agreement, IRB documents, and so on.
 * `code` : any computer codes (R, python, Stata, …) you used for this project. When you have a separate GitHub repository for your project, you may want to use this place for your own backup that you can use to share with others who are not using Github.
 * `data` : Don't use Github to share data.
