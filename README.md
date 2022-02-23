@@ -2,15 +2,15 @@
 
 A simple template for a research project. 
 
-``
-\0-posted
-\admin
-\code
-\data
-\doc
-\output
-\stash
-``
+```
+├── 0-posted
+├── admin
+├── code
+├── data
+├── doc
+├── output
+├── stash
+```
 
 What each folder should include:
 
